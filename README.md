@@ -1,7 +1,9 @@
 Hi there 👋
 
 🎓 Interview Questions - SQL Server,SSIS,SSAS,SSRS,PowerBI learning materials can be found on my YouTube channel at CareerLipht
+
 ☁️ I have a website sharing my working experience learnings at https://maruthisivaprasad.com
+
 🔎 Lots of repos around different technologies like SQL Server,SSIS,SSAS,Tabular Models,SSRS,PowerBI,BigQuery,Looker and random information. Take a look around!
 
 - 👋 Hi, I’m @maruthisivaprasadvm
