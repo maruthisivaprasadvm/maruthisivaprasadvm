@@ -10,7 +10,7 @@ Hi there 👋
 - 👀 I’m interested in leanring and sharing
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on any new ideas and projects
-- 📫 How to reach me @MaruthiSP - Twitter
+- 📫 How to reach me @MaruthiSP - Twitter OR LinkedIn - https://www.linkedin.com/in/maruthi-siva-prasad/
 
 Thanks for visiting!
 
