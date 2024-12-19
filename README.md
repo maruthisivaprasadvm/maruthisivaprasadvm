@@ -8,7 +8,7 @@ Hi there 👋
 
 - 👋 Hi, I’m @maruthisivaprasadvm
 - 👀 I’m interested in leanring and sharing
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently working on Microsoft Fabric, Azure Cloud, Data Warehousing, Power BI, Data Modeling, DBT and Snowflake
 - 💞️ I’m looking to collaborate on any new ideas and projects
 - 📫 How to reach me @MaruthiSP - Twitter OR LinkedIn - https://www.linkedin.com/in/maruthi-siva-prasad/
 
